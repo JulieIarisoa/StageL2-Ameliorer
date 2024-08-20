@@ -1,0 +1,23 @@
+input{
+    display: block;
+    width: 200px;
+    height: 28px;
+    margin: 2px;
+}
+h3{
+    font-weight: bold;
+    color: rgb(241, 64, 94);
+    text-decoration: underline;
+}
+#button{
+    background-color: rgb(241, 64, 94);
+    border:none;
+    color:white;
+    font-weight:bold;
+    margin-top: 5px;
+}
+#button:hover{
+    border: 2px solid rgb(241, 64, 94);
+    color:rgb(241, 64, 94);
+    background-color:white;
+}

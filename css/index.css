@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: cursive;
+}
+h1{
+    color: rgba(7, 7, 44, 0.894);
+    font-size: 45px;
+    padding-top: 75px;
+}
+h2{
+    color: rgba(7, 7, 44, 0.894);
+    font-size: 28px;
+}
+h1,h2{
+    margin-top: 2%;
+}
+button{
+    background-color: rgba(7, 7, 44, 0.894);
+    border-color: rgba(7, 7, 49, 0.894);
+    color: white;
+    width: 150px;
+    height: 40px;
+    border-radius: 40px;
+    font-weight: bolder;
+    margin-top: 5%;
+}
+button:hover{
+    background-color: white;
+    color: rgba(7, 7, 44, 0.894);
+    border: 2px solid rgba(7, 7, 44, 0.894);
+}
+footer{
+    background-color: rgba(7, 7, 44, 0.894);
+    height: 30vh;
+    position: fixed;
+    margin-top: 95px;
+    width: 100%;
+    padding-top: 3%;
+}
+a{
+    display: block;
+}
+a{
+    color: rgb(255, 0, 140);
+    text-decoration: none;
+    line-height: 2px;
+}
